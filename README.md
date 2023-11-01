@@ -1,6 +1,6 @@
 # PCA Simple warp divergence Implement Sum Reduction
 ## AIM:
-To implement the kernel reduceUnrolling16 and comapare the performance of kernal reduceUnrolling16 with kernal reduceUnrolling8 using proper metrics and events with nvprof.
+To implement the kernel reduceUnrolling16 and compare the performance of kernel reduceUnrolling16 with kernel reduceUnrolling8 using proper metrics and events with nvprof.
 ## PROCEDURE:
 ### STEP 1:
 Include the required files and library.
